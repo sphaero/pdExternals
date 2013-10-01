@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1380621195 source:/home/people/arnaud/Documents/sphaero/pdExternals/pdHelloWorld/pdHelloWorld/main.c
+	"pd/m_pd.h"
+
+1380621195 source:/home/people/arnaud/Documents/sphaero/pdExternals/pdHelloWorld/main.c
+	"pd/m_pd.h"
+
