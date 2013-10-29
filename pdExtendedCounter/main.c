@@ -112,7 +112,7 @@ void pdExtCounter_setup(void)
         0
     );
     class_addbang  (extCounter_class, counter_bang);
-    class_addmethod(extCounter_class,
+    class_addmethod(extCounter_class,   
         (t_method)counter_reset,
         gensym("reset"),
         0);
